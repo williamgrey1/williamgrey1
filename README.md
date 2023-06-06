@@ -1,5 +1,8 @@
 
-![Banner](https://www.google.com.gh/imgres?imgurl=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F574faff6f8baf35e5da43485%2F1553914921320-JL7TJLMKYJ0H1JUXG5CY%2FData-Inspect.gif&tbnid=9UCVLZiwj1N2jM&vet=12ahUKEwjGjJnbuq__AhXjmicCHQ0bBDkQMygOegUIARCgAg..i&imgrefurl=https%3A%2F%2Fmikemirandi.com%2Fdata-inspection&docid=Wb_dxHZvywY4EM&w=800&h=600&q=data%20gif&ved=2ahUKEwjGjJnbuq__AhXjmicCHQ0bBDkQMygOegUIARCgAg)
+  <div align="center">
+  <img src="https://github.com/williamgrey1/williamgrey1/assets/88144626/36e954f7-b788-4ca3-a86d-439cffb64b26" alt="GIF">
+</div>
+
 
 ## About Me 👤
 Hi 👋 ! I am William Danso, a passionate data scientist with a strong background in data analysis, machine learning, and visualization with experience in Python, R, Tableau, Excel, Power BI, SQL, Hadoop, PySpark, HTML, CSS, and JavaScript. I love to code , travel and capture moments through the lens of my camera.
