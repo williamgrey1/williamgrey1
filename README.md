@@ -26,7 +26,7 @@ Hi 👋 ! I am William Danso, a passionate data scientist with a strong backgrou
     <h2>Projects 💻</h2>
     <ul>
       <li>Customer Segmentation: An in-depth analysis of customer segmentation for an e-commerce platform, resulting in targeted marketing campaigns and improved customer satisfaction.</li>
-      <li>Loan Default Prediction(ML): Development of a predictive maintenance model for a manufacturing company, optimizing maintenance schedules and minimizing equipment downtime.</li>
+      <li>Loan Default Prediction(ML): Developed a machine learning model to predict the likelihood of loan default using borrower data. The project focused on feature engineering, model evaluation, and insights to support risk mitigation strategies in lending.</li>
       <li>Life Expectancy Visualization: Tableau was used to analyze and visualize variations in life expectancy across countries and regions. To gain insights into life expectancy disparities and trends worldwide, the project examined factors including income, education, and healthcare through interactive visualizations.</li>
     </ul>
     <p>You can find more details and explore additional projects in my GitHub repository.</p>
